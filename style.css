@@ -1,0 +1,40 @@
+.jumbotron  {
+    background-color: navy;
+    color: white;
+}
+
+#primaryForm    {
+    border: 2px solid navy;
+}
+
+#formHeader {
+    background-color: navy;
+    color: white;   
+}
+
+#headerText {
+    margin-top: 0px;
+}
+
+#formData   {
+    padding: 5px;
+}
+
+#panelDiv   {
+    margin-top: 20px;
+}
+
+.panel-body  {
+    padding: 5px;
+}
+
+#panelHeader   {
+    background-color: navy;
+    color: white;
+}
+
+.article    {
+    background-color: lightgray;
+    border: 1px solid black;
+    padding: 3px;
+}
