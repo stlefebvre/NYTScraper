@@ -1,1 +1,1 @@
-# NYTScraper
+New York Times scraper utilizing JavaScript
